@@ -27,3 +27,11 @@
 * UPI (Universal Patient Identifyer). _Ya no es utilizado_.
 * Trusted Exchange Framework (TEFCA).
 * El MHS del sistema militar de EEUU se llama **Genesis**.
+
+## (Jeff Wall) Not Just business as Usual: practical applications of interoperability.
+
+### Recursos
+* [SMART: Tech Stack for Health Apps](https://docs.smarthealthit.org/)
+
+### Notas
+* SMART es una sigla para: Substitutable Medical Applications and Reusable Technology.
