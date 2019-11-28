@@ -40,12 +40,12 @@
 
 # Día 2
 
-## (Sebastián Olivieri) Tendencias en Interoperatibilidad y Ciberseguridad en dispositivos mdicos.
+## (Sebastián Olivieri) Tendencias en Interoperatibilidad y Ciberseguridad en dispositivos médicos.
 
 ### Recursos
 * [Medibus](https://www.draeger.com/en_aunz/Hospital/Online-Services/Data-Communication-Protocols) (protocolo de transferencia de datos proopietario de Dräger).
 * [IHE](https://www.ihe.net/): Empresa que ayuda a estandarizar la interoperabilidad entree dispositivos médicos.
-* [Protocolo SDC](https://en.wikipedia.org/wiki/IEEE_11073_service-oriented_device_connectivity): Service Device Otiented Connectivity
+* [Protocolo SDC](https://en.wikipedia.org/wiki/IEEE_11073_service-oriented_device_connectivity): Service Device Oriented Connectivity
 * [2019 Top 10 Health Technology Hazards](https://www.ecri.org/Resources/Whitepapers_and_reports/Haz_19.pdf)
 
 ### Notas
@@ -54,3 +54,17 @@
 * Se requiere comunicación estandarizada entre dispositivos médicos.
 * También es muy importante la calidad de datos médicos.
 * Se persigue con SDC que todos los dispositivos médicos hablen el mismo idioma.
+
+## (Eric Poon) Barcode medication administration
+
+### Recursos
+* [Effect of the Implementation of Barcode Technology and an Electronic Medication Administration Record on Adverse Drug Events](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4911988/).
+
+### Notas
+* Medication Error: Cualquier error en cualquier etapa del proceso de medicación.
+    * Adverse Drug Event (ADE).
+    * Potential Adverse Drug Event (ADE).
+* La mayoría de los errores ocurre en la etapa de "ordering".
+
+# Notas y recursos generales recabados
+* [Digital Maturity Index for Healthcare (DMI-H)](https://www.folks.la/dmi-h?lang=es)
