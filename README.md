@@ -1,6 +1,8 @@
 # Jornadas Informatica en Salud HIBA 2019
 > Repositorio sobre algunos apuntes y recursos interesantes (para mi) relacionados con informática en Salud basados en las Jornadas de Informática en Salud del Hospital Italiano de Buenos Aires, Argentina, 2019.
 
+![Portada](https://www.hospitalitaliano.org.ar/multimedia/archivos/noticias_archivos/149/banners/149_bannerjornadas2019.png)
+
 # Día 1
 
 ## (James Agnew) Engaging Patients: A short history of interoperability standards for health
