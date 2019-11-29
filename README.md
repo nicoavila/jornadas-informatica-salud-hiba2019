@@ -66,7 +66,18 @@
     * Potential Adverse Drug Event (ADE).
 * La mayoría de los errores ocurre en la etapa de "ordering".
 
+# Día 3
+
+## (SPEAKER) Nombre.
+
+### Recursos
+* lorem
+
+### Notas
+* lorem
+
 # Notas y recursos generales recabados
 * [Digital Maturity Index for Healthcare (DMI-H)](https://www.folks.la/dmi-h?lang=es)
 * [DCB0129: Clinical Risk Management: its Application in the Manufacture of Health IT Systems](https://digital.nhs.uk/data-and-information/information-standards/information-standards-and-data-collections-including-extractions/publications-and-notifications/standards-and-collections/dcb0129-clinical-risk-management-its-application-in-the-manufacture-of-health-it-systems)
 * [DCB0160: Clinical Risk Management: its Application in the Deployment and Use of Health IT SystemsDCB0160: Clinical Risk Management: its Application in the Deployment and Use of Health IT Systems](https://digital.nhs.uk/data-and-information/information-standards/information-standards-and-data-collections-including-extractions/publications-and-notifications/standards-and-collections/dcb0160-clinical-risk-management-its-application-in-the-deployment-and-use-of-health-it-systems)
+* [OWASP](https://www.owasp.org/index.php/Main_Page)
